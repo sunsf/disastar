@@ -6,7 +6,8 @@
     latitude: 29.6053654,
     longitude: 106.5552934,
     flood: {
-      height: 174.27
+      height: 174.27,
+      throughput: 25000,
     }
   },
   {
@@ -16,7 +17,8 @@
     latitude: 29.3229214,
     longitude: 107.7435819,
     flood: {
-      height: 178.93
+      height: 178.93,
+      throughput: 3520
     }
   },
   {
@@ -26,7 +28,8 @@
     latitude: 30.7046149, 
     longitude: 111.2269575,
     flood: {
-      height: 51.79
-    }   
+      height: 51.79,
+      throughput: 40500
+    }
   }
 ]

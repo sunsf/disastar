@@ -1,0 +1,89 @@
+[
+  {
+    "name": "寸滩",
+    "type": "flood",
+    "latitude": 29.6053654,
+    "longitude": 106.5552934
+  },
+  {
+    "name": "武隆",
+    "type": "flood",
+    "latitude": 29.3229214,
+    "longitude": 107.7435819
+  },
+  {
+    "name": "宜昌",
+    "type": "flood",
+    "latitude": 30.7046149,
+    "longitude": 111.2269575
+  },
+  {
+    "name": "沙市",
+    "type": "flood",
+    "latitude": 30.2973166,
+    "longitude": 112.2438603
+  },
+  {
+    "name": "城陵矶(莲)",
+    "description": "莲花塘",
+    "type": "flood",
+    "latitude": 29.446843,
+    "longitude": 113.1429051
+  },
+  {
+    "name": "汉口",
+    "type": "flood",
+    "latitude": 30.5627212,
+    "longitude": 114.2945236,
+  },
+  {
+    "name": "九江",
+    "type": "flood",
+    "latitude": 29.7307992,
+    "longitude": 115.9797103,
+  },
+  {
+    "name": "大通",
+    "type": "flood",
+    "latitude": 30.8083659,
+    "longitude": 117.7355365,
+  },
+  {
+    "name": "城陵矶(七)",
+    "description": "七里山",
+    "type": "flood",
+    "latitude": 29.4336042,
+    "longitude": 113.1413714,
+  },
+  {
+    "name": "湖口",
+    "type": "flood",
+    "latitude": 29.7335373,
+    "longitude": 116.1989597
+  },
+  {
+    "name": "茅坪(二)",
+    "description": "二堰口?",
+    "type": "flood",
+    "latitude": 30.8316954,
+    "longitude": 110.9807722,
+  },
+  {
+    "name": "三峡水库",
+    "type": "flood",
+    "latitude": 30.821582,
+    "longitude": 111.0062464
+  },
+  {
+    "name": "龙王庙",
+    "type": "flood",
+    "latitude": 30.5660568,
+    "longitude": 114.2964734,
+  },
+  {
+    "name": "丹江口水库",
+    "type": "flood",
+    "latitude": 32.5024988,
+    "longitude": 111.149868
+  },
+] 
